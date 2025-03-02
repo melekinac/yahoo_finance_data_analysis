@@ -78,7 +78,3 @@ python main.py
  **Compare multiple stocks on the same graph**\
  **Get insights into stock correlations**\
  **Adjustable parameters to customize analysis**
-
-```
-
-```
