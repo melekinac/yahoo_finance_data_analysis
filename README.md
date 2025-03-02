@@ -1,4 +1,3 @@
-````markdown
 # Yahoo Finance Stock Analysis
 
 This project allows users to analyze **any publicly traded stock** available on **Yahoo Finance**. Users can enter their preferred stock tickers (e.g., **AAPL, TSLA, GOOGL, AMZN**) and analyze their **price trends, moving averages, and correlations**.
@@ -58,7 +57,6 @@ This heatmap visualizes the **correlation between the daily returns** of the sel
 git clone https://github.com/melek/yahoo-finance-analysis.git
 cd yahoo-finance-analysis
 ```
-````
 
 ### Install required dependencies:
 
